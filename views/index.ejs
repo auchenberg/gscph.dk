@@ -1,0 +1,80 @@
+<header>
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+    <label for="nav-trigger"></label>
+
+    <nav>
+        <ul>
+            <li><a href="#home">GSCPH</a></li>
+            <li><a href="#members">Members</a></li>
+            <li><a href="#application">Application</a></li>
+            <li><a href="#contact">Contact us</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="splash">
+    <a id="home"></a>
+    <div class="logo"></div>
+    <div class="wef"></div>
+    <div class="grab"></div>
+</section>
+
+<section class="intro">
+    <h1>The Copenhagen Hub propels projects with a local impact to create global awareness. </h1>
+
+    <div class="place"></div>
+</section>
+
+<section class="story">
+    <a id="story"></a>
+
+    <h1>Global Shapers Community</h1>
+
+    <p>The World Economic Forum established Global Shapers as a special community of extraordinary young people in their 20s. The community provides young leaders with a global platform to shape the future — integrating the personal, community and global dimensions of leadership.</p>
+
+    <p>Through the unparalleled convening power of the World Economic Forum, the Global Shapers Community is diverse in demographics, geographical areas and sectors.
+    However, it is united by a common desire to channel members’ tremendous energy and enthusiasm into building a more peaceful and inclusive world.</p>
+
+    <p>In the Copenhagen hub our effort to create social impact is centered around four annual workshops, where we engage in advising and consulting social project being small or big.</p>
+
+</section>
+
+<section class="members">
+    <a id="members"></a>
+
+    <h1>Members</h1>
+
+    <ul>
+    <% members.forEach(function(member) { %>
+        <li>
+            <div>
+                <%- member.url ? '<a href="' + member.url + '">' : '' %>
+                    <img src="<%= member.avatar %>" />
+                    <span>
+                        <h3><%= member.name %></h3>
+                        <p><%= member.description %></p>
+                    </span>
+                <%- member.url ? '</a>' : '' %>
+            </div>
+        </li>
+    <% }) %>
+    </ul>
+
+</section>
+
+<section class="application">
+    <a id="application"></a>
+
+    <h1>Application</h1>
+
+    <p>We are always looking for the next shaper to join our hub. If you have drive, are in your 20's, want to make a social impact and been able to do something extraordinary we look forward to hear from you.</p>
+    <p>To apply as a shaper you shall fill out our application form <a href="https://podio.com/webforms/2873033/214442">here</a> and get somebody you have worked with like a boss, a professor or a collaborator to nominate you <a href="https://podio.com/webforms/2873017/214436">here</a>.</p>
+</section>
+
+<section class="contact">
+    <a id="contact"></a>
+
+    <h1>Contact us</h1>
+
+    <p>Visit us at <a href="https://www.facebook.com/GlobalShapersCPH/?fref=ts">our facebook page</a> or contact our hub liason Anders at <a href="mailto:anders@bangura.dk">anders@bangura.dk</a>.</p>
+</section>

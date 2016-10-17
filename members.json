@@ -1,0 +1,92 @@
+[
+    {
+        "name" : "Aila Lonka",
+        "avatar" : "https://media.licdn.com/media/p/1/005/09e/1e2/3a9d782.jpg",
+        "description" : "Head of section - Ministry of Defence ",
+        "url": "https://dk.linkedin.com/in/ailalonka"
+    },
+    {
+        "name" : "Anders Møller",
+        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAipAAAAJGI0ZWZkMjhjLTYyNTItNGQ2Ny04OGU0LWE0YzBhMGY1ZDc4Mg.jpg",
+        "description" : "Founder, Bangura Bags",
+        "url": "https://dk.linkedin.com/in/andersmol"
+    },
+    {
+        "name" : "Christina Vega Pedersen",
+        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAJKAAAAJGVkYTcyYWVkLTE4ZmEtNDQ2ZS1hYTYxLTE4ZWIzNTM1ZDY1OA.jpg",
+        "description" : "Partner and Anthropologist, Actant",
+        "url": "https://www.linkedin.com/in/vegachristina"
+    },
+    {
+        "name" : "Jannick Malling",
+        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAfmAAAAJDUwYmZhYjkzLWFkYzktNDM4MC1iMTQzLWY5NzM5MjRhYjgwNg.jpg",
+        "description" : "CEO, Tradable",
+        "url" : "https://www.linkedin.com/in/jmalling"
+    },
+    {
+        "name" : "Johan Juul Johansen",
+        "avatar" : "https://media.licdn.com/media/p/4/005/08e/07c/05d757e.jpg",
+        "description" : "Co-founder, Mobilized Construction",
+        "url" : "https://de.linkedin.com/in/johanjuuljensen"
+    },
+    {
+        "name" : "Kasper Worm-Petersen ",
+        "avatar" : "https://media.licdn.com/media/p/1/000/1ef/002/1868ccc.jpg",
+        "description" : "Head of Audience Developmet, Ekstra Bladet",
+        "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
+    },
+    {
+        "name" : "Kenneth Auchenberg",
+        "avatar" : "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAARiAAAAJDAxZWE5YTgzLTE1YzMtNGNlNS1hMTBmLWNiZWEyNDYxODJlZQ.jpg",
+        "description" : "Program Manager, Microsoft",
+        "url" : "https://www.linkedin.com/in/auchenberg"
+    },
+    {
+        "name" : "Mark Emil Tholstrup Hermansen",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhSAAAAJGRjMjU0ZThhLTYzNTMtNDFlOC1iYjEzLWViNDJhMGQyNTVkOQ.jpg",
+        "description" : "Concept Development, noma and MAD",
+        "url" : "https://dk.linkedin.com/in/markemilhermansen"
+    },    
+    {
+        "name" : "Mathias Esmann",
+        "avatar" : "https://media.licdn.com/media/p/3/005/086/001/035db80.jpg",
+        "description" : "Senior Associate at Voluntas Advisory",
+        "url" : "https://www.linkedin.com/in/mathiasesmann"
+    },
+    {
+        "name" : "Michael Peen",
+        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAeSAAAAJDAyMzAzZmU3LWZjNzctNDQyOS05ZWEwLTc0ZThkYzUxMWUzMw.jpg",
+        "description" : "Chief Commercial Officer, KAZ Minerals ",
+        "url" : "https://www.linkedin.com/in/michaelpeen"
+    },
+    {
+        "name" : "Rikke Krause",
+        "avatar" : "https://media.licdn.com/media/p/2/005/09f/2dc/3ce33a5.jpg",
+        "description" : "Director of Innovation Excellence, Coloplast",
+        "url" : "https://dk.linkedin.com/in/rikkekrause"
+    },
+    {
+        "name" : "Sabrina Simonsen",
+        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAh5AAAAJDk1ZWFjZDgxLWU2YTMtNGVmNi1hMjRhLWIwOTZhMzE1NGE2ZA.jpg",
+        "description" : "Director of Business Development, Share Style",
+        "url" : "https://www.linkedin.com/in/sabsimonsen/en"
+    },
+    {
+        "name" : "Sofie Rye",
+        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAh5AAAAJDk1ZWFjZDgxLWU2YTMtNGVmNi1hMjRhLWIwOTZhMzE1NGE2ZA.jpg",
+        "description" : "Journalist and Editor, Radio24syv",
+        "url" : "https://dk.linkedin.com/in/sofierye"
+    },
+    {
+        "name" : "Thomas Albrechtsen",
+        "avatar" : "https://media.licdn.com/media/p/3/005/015/303/1cf8ff4.jpg",
+        "description" : "Director, Nextwork",
+        "url" : "https://dk.linkedin.com/in/thomas-albrechtsen-b3544138"
+    },
+    {
+        "name" : "Veronica D'Zousa",
+        "avatar" : "https://media.licdn.com/media/p/2/005/017/05b/378c01a.jpg",
+        "description" : "Co-founder, Carcel",
+        "url" : "https://dk.linkedin.com/in/anneveronicadsouza"
+    }
+]

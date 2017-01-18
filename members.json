@@ -8,8 +8,14 @@
     {
         "name" : "Anders Møller",
         "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAipAAAAJGI0ZWZkMjhjLTYyNTItNGQ2Ny04OGU0LWE0YzBhMGY1ZDc4Mg.jpg",
-        "description" : "Founder, Bangura Bags",
+        "description" : "Partner, Bangura & Payamba",
         "url": "https://dk.linkedin.com/in/andersmol"
+    }, 
+    {
+        "name" : "Anniken Sand",
+        "avatar" : "",
+        "description" : "Co-founder at ISTIS",
+        "url" : "https://dk.linkedin.com/in/anniken-sand-1a293ab"
     },
     {
         "name" : "Christina Vega Pedersen",
@@ -24,6 +30,12 @@
         "url" : "https://www.linkedin.com/in/jmalling"
     },
     {
+        "name" : "Jacob Lennheden",
+        "avatar" : "",
+        "description" : "Managing Partner at Copenhagen Institute of NeuroCreativity",
+        "url" : "https://dk.linkedin.com/in/jlennheden"
+    },
+    {
         "name" : "Johan Juul Johansen",
         "avatar" : "https://media.licdn.com/media/p/4/005/08e/07c/05d757e.jpg",
         "description" : "Co-founder, Mobilized Construction",
@@ -34,6 +46,12 @@
         "avatar" : "https://media.licdn.com/media/p/1/000/1ef/002/1868ccc.jpg",
         "description" : "Head of Audience Developmet, Ekstra Bladet",
         "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
+    },
+    {
+        "name" : "Line Kolling",
+        "avatar" : "",
+        "description" : "Global Business Engineer",
+        "url" : "https://dk.linkedin.com/in/linekolling"
     },
     {
         "name" : "Kenneth Auchenberg",
@@ -54,10 +72,10 @@
         "url" : "https://www.linkedin.com/in/mathiasesmann"
     },
     {
-        "name" : "Michael Peen",
-        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAeSAAAAJDAyMzAzZmU3LWZjNzctNDQyOS05ZWEwLTc0ZThkYzUxMWUzMw.jpg",
-        "description" : "Chief Commercial Officer, KAZ Minerals ",
-        "url" : "https://www.linkedin.com/in/michaelpeen"
+        "name" : "Nicolai Elstrøm",
+        "avatar" : "",
+        "description" : "Management Consultant at QVARTZ",
+        "url" : "https://dk.linkedin.com/in/nicolaielstrom"
     },
     {
         "name" : "Rikke Krause",

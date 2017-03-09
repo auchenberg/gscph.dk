@@ -13,13 +13,13 @@
     }, 
     {
         "name" : "Anniken Sand",
-        "avatar" : "",
-        "description" : "Co-founder at ISTIS",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/080/364/2d3fcfc.jpg",
+        "description" : "Co-founder at ISTID",
         "url" : "https://dk.linkedin.com/in/anniken-sand-1a293ab"
     },
     {
         "name" : "Christina Vega Pedersen",
-        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAJKAAAAJGVkYTcyYWVkLTE4ZmEtNDQ2ZS1hYTYxLTE4ZWIzNTM1ZDY1OA.jpg",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAi1AAAAJGE0NzA0MmY1LThhZjUtNDZiNC05ZjEyLTNkY2NhNzYyYjg0ZA.jpg",
         "description" : "Partner and Anthropologist, Actant",
         "url": "https://www.linkedin.com/in/vegachristina"
     },
@@ -31,7 +31,7 @@
     },
     {
         "name" : "Jacob Lennheden",
-        "avatar" : "",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/09e/389/3366b01.jpg",
         "description" : "Managing Partner at Copenhagen Institute of NeuroCreativity",
         "url" : "https://dk.linkedin.com/in/jlennheden"
     },
@@ -49,7 +49,7 @@
     },
     {
         "name" : "Line Kolling",
-        "avatar" : "",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/072/154/1665d80.jpg",
         "description" : "Global Business Engineer",
         "url" : "https://dk.linkedin.com/in/linekolling"
     },
@@ -61,7 +61,7 @@
     },
     {
         "name" : "Mark Emil Tholstrup Hermansen",
-        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhSAAAAJGRjMjU0ZThhLTYzNTMtNDFlOC1iYjEzLWViNDJhMGQyNTVkOQ.jpg",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkcAAAAJDRjZjI5ZTFmLTk5Y2EtNDA5MC1iOTJiLTRiMGM1OTU2MTk4NQ.jpg",
         "description" : "Concept Development, noma and MAD",
         "url" : "https://dk.linkedin.com/in/markemilhermansen"
     },    
@@ -73,7 +73,7 @@
     },
     {
         "name" : "Nicolai Elstrøm",
-        "avatar" : "",
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeKAAAAJDVhMjU1M2M1LWE4YmQtNDEyZi1iZWVlLTEzZjdmOGU3ZTZkNg.jpg",
         "description" : "Management Consultant at QVARTZ",
         "url" : "https://dk.linkedin.com/in/nicolaielstrom"
     },

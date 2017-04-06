@@ -1,13 +1,13 @@
 [
     {
         "name" : "Aila Lonka",
-        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Aila.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Aila%20Lonka.jpg",
         "description" : "Head of section - Ministry of Defence ",
         "url": "https://dk.linkedin.com/in/ailalonka"
     },
     {
         "name" : "Anders Møller",
-        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/anders%20m%C3%B8ller.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Anders%20M%C3%B8ller.jpg",
         "description" : "Partner, Bangura & Payamba",
         "url": "https://dk.linkedin.com/in/andersmol"
     }, 
@@ -19,42 +19,40 @@
     },
     {
         "name" : "Christina Vega Pedersen",
-        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/christina%20vega%20pedersen.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Christina%20Vega%20Pedersen.jpg",
         "description" : "Partner and Anthropologist, Actant",
         "url": "https://www.linkedin.com/in/vegachristina"
     },
     {
-        "name" : "Jannick Malling",
-        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAfmAAAAJDUwYmZhYjkzLWFkYzktNDM4MC1iMTQzLWY5NzM5MjRhYjgwNg.jpg",
-        "description" : "CEO, Tradable",
-        "url" : "https://www.linkedin.com/in/jmalling"
-    },
-    {
         "name" : "Jacob Lennheden",
-        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/09e/389/3366b01.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Jacob%20Lennheden.jpg",
         "description" : "Managing Partner at Copenhagen Institute of NeuroCreativity",
         "url" : "https://dk.linkedin.com/in/jlennheden"
     },
     {
+        "name" : "Jannick Malling",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Jannick%20Malling.jpg",
+        "description" : "CEO, Tradable",
+        "url" : "https://www.linkedin.com/in/jmalling"
+    },
+    {
         "name" : "Johan Juul Johansen",
-        "avatar" : "https://media.licdn.com/media/p/4/005/08e/07c/05d757e.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Johan%20Juul%20Johansen.jpg",
         "description" : "Co-founder, Mobilized Construction",
         "url" : "https://de.linkedin.com/in/johanjuuljensen"
     },
     {
         "name" : "Kasper Worm-Petersen",
-        "avatar" : "https://media.licdn.com/media/p/1/000/1ef/002/1868ccc.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Kasper%20Worm-Petersen.jpg",
         "description" : "Head of Audience Developmet, Ekstra Bladet",
         "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
     },
-    
     {
         "name" : "Kirstine Leth Schütze",
-        "avatar" : "",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Kirstine%20Leth%20Sch%C3%BCtze.jpg",
         "description" : "Founder, Papercut Issues",
         "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
-    },
-    
+    },  
     {
         "name" : "Line Kolling",
         "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Line%20Kolling.jpg",
@@ -63,55 +61,55 @@
     },
     {
         "name" : "Kenneth Auchenberg",
-        "avatar" : "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAARiAAAAJDAxZWE5YTgzLTE1YzMtNGNlNS1hMTBmLWNiZWEyNDYxODJlZQ.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Kenneth%20Auchenberg.jpg",
         "description" : "Program Manager, Microsoft",
         "url" : "https://www.linkedin.com/in/auchenberg"
     },
     {
         "name" : "Mark Emil Tholstrup Hermansen",
-        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkcAAAAJDRjZjI5ZTFmLTk5Y2EtNDA5MC1iOTJiLTRiMGM1OTU2MTk4NQ.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Mark%20Emil%20Tholstrup%20Hermansen.jpg",
         "description" : "Concept Development, Noma and MAD",
         "url" : "https://dk.linkedin.com/in/markemilhermansen"
     },    
     {
         "name" : "Mathias Esmann",
-        "avatar" : "https://media.licdn.com/media/p/3/005/086/001/035db80.jpg",
-        "description" : "Senior Associate at Voluntas Advisory",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Mathias%20Esmann.jpg",
+        "description" : "Senior Associate, Voluntas Advisory",
         "url" : "https://www.linkedin.com/in/mathiasesmann"
     },
     {
         "name" : "Nicolai Elstrøm",
-        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeKAAAAJDVhMjU1M2M1LWE4YmQtNDEyZi1iZWVlLTEzZjdmOGU3ZTZkNg.jpg",
-        "description" : "Management Consultant at QVARTZ",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Nicolai%20Elstr%C3%B8m.jpg",
+        "description" : "Management Consultant, QVARTZ",
         "url" : "https://dk.linkedin.com/in/nicolaielstrom"
     },
     {
         "name" : "Rikke Krause",
-        "avatar" : "https://media.licdn.com/media/p/2/005/09f/2dc/3ce33a5.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Rikke%20Krause.jpg",
         "description" : "Director of Innovation Excellence, Coloplast",
         "url" : "https://dk.linkedin.com/in/rikkekrause"
     },
     {
         "name" : "Sabrina Simonsen",
-        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAh5AAAAJDk1ZWFjZDgxLWU2YTMtNGVmNi1hMjRhLWIwOTZhMzE1NGE2ZA.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Sabrina%20Simonsen.jpg",
         "description" : "Director of Business Development, Share Style",
         "url" : "https://www.linkedin.com/in/sabsimonsen/en"
     },
     {
         "name" : "Sofie Rye",
-        "avatar" : "https://media.licdn.com/media/p/7/005/0b7/0df/0035ced.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Sofie%20Rye.jpg",
         "description" : "Journalist and Editor, Radio24syv",
         "url" : "https://dk.linkedin.com/in/sofierye"
     },
     {
         "name" : "Thomas Albrechtsen",
-        "avatar" : "https://media.licdn.com/media/p/3/005/015/303/1cf8ff4.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Thomas%20Albrechtsen.jpg",
         "description" : "Director, Nextwork",
         "url" : "https://dk.linkedin.com/in/thomas-albrechtsen-b3544138"
     },
     {
         "name" : "Veronica D'Zousa",
-        "avatar" : "https://media.licdn.com/media/p/2/005/017/05b/378c01a.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Veronica%20D'Zousa.jpg",
         "description" : "Co-founder, Carcel",
         "url" : "https://dk.linkedin.com/in/anneveronicadsouza"
     }

@@ -7,7 +7,7 @@
     },
     {
         "name" : "Anders Møller",
-        "avatar" : "https://media.licdn.com/media/AAEAAQAAAAAAAAipAAAAJGI0ZWZkMjhjLTYyNTItNGQ2Ny04OGU0LWE0YzBhMGY1ZDc4Mg.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/anders%20m%C3%B8ller.jpg",
         "description" : "Partner, Bangura & Payamba",
         "url": "https://dk.linkedin.com/in/andersmol"
     }, 
@@ -42,14 +42,22 @@
         "url" : "https://de.linkedin.com/in/johanjuuljensen"
     },
     {
-        "name" : "Kasper Worm-Petersen ",
+        "name" : "Kasper Worm-Petersen",
         "avatar" : "https://media.licdn.com/media/p/1/000/1ef/002/1868ccc.jpg",
         "description" : "Head of Audience Developmet, Ekstra Bladet",
         "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
     },
+    
+    {
+        "name" : "Kirstine Leth Schütze",
+        "avatar" : "",
+        "description" : "Founder, Papercut Issues",
+        "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
+    },
+    
     {
         "name" : "Line Kolling",
-        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/072/154/1665d80.jpg",
+        "avatar" : "https://github.com/auchenberg/gscph.dk/blob/master/assets/images/Line%20Kolling.jpg",
         "description" : "Global Business Engineer",
         "url" : "https://dk.linkedin.com/in/linekolling"
     },
@@ -62,7 +70,7 @@
     {
         "name" : "Mark Emil Tholstrup Hermansen",
         "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkcAAAAJDRjZjI5ZTFmLTk5Y2EtNDA5MC1iOTJiLTRiMGM1OTU2MTk4NQ.jpg",
-        "description" : "Concept Development, noma and MAD",
+        "description" : "Concept Development, Noma and MAD",
         "url" : "https://dk.linkedin.com/in/markemilhermansen"
     },    
     {

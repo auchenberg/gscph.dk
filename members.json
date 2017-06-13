@@ -24,12 +24,6 @@
         "url" : "https://dk.linkedin.com/in/jlennheden"
     },
     {
-        "name" : "Jannick Malling",
-        "avatar" : "/images/Jannick%20Malling.jpg",
-        "description" : "CEO, Tradable",
-        "url" : "https://www.linkedin.com/in/jmalling"
-    },
-    {
         "name" : "Johan Juul Johansen",
         "avatar" : "/images/Johan%20Juul%20Johansen.jpg",
         "description" : "Co-founder, Mobilized Construction",
@@ -72,12 +66,6 @@
         "url" : "https://www.linkedin.com/in/mathiasesmann"
     },
     {
-        "name" : "Nicolai Elstrøm",
-        "avatar" : "/images/Nicolai%20Elstr%C3%B8m.jpg",
-        "description" : "Management Consultant, QVARTZ",
-        "url" : "https://dk.linkedin.com/in/nicolaielstrom"
-    },
-    {
         "name" : "Rikke Krause",
         "avatar" : "/images/Rikke%20Krause.jpg",
         "description" : "Director of Innovation Excellence, Coloplast",
@@ -100,11 +88,5 @@
         "avatar" : "/images/Thomas%20Albrechtsen.jpg",
         "description" : "Director, Nextwork",
         "url" : "https://dk.linkedin.com/in/thomas-albrechtsen-b3544138"
-    },
-    {
-        "name" : "Veronica D'Zousa",
-        "avatar" : "/images/Veronica%20D'Zousa.jpg",
-        "description" : "Co-founder, Carcel",
-        "url" : "https://dk.linkedin.com/in/anneveronicadsouza"
     }
 ]

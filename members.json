@@ -16,6 +16,18 @@
         "avatar" : "/images/Christina%20Vega%20Pedersen.jpg",
         "description" : "Partner and Anthropologist, Actant",
         "url": "https://www.linkedin.com/in/vegachristina"
+    },    
+    {
+        "name" : "Dina Lingås",
+        "avatar" : "images/Dina%20Lingås.jpg",
+        "description" : "Student at CBS",
+        "url" : "https://www.linkedin.com/in/dina-ling%C3%A5s-73567184/"
+    },      
+    {
+        "name" : "Hannibal Herforth",
+        "avatar" : "images/Hannibal%20Herforth.jpg",
+        "description" : "Country Manager at Future Leaders",
+        "url" : "https://www.linkedin.com/in/hannibal-herforth/"
     },
     {
         "name" : "Jacob Lennheden",
@@ -70,6 +82,12 @@
         "avatar" : "/images/Sabrina%20Simonsen.jpg",
         "description" : "Director of Business Development, Share Style",
         "url" : "https://www.linkedin.com/in/sabsimonsen/en"
+    },
+    {
+        "name" : "Susanne Fischer",
+        "avatar" : "images/Susanne%20Fischer.jpg",
+        "description" : "",
+        "url" : "https://www.linkedin.com/in/susanne-fischer/"
     },
     {
         "name" : "Thomas Albrechtsen",

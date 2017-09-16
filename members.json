@@ -12,6 +12,12 @@
         "url": "https://dk.linkedin.com/in/andersmol"
     }, 
     {
+        "name" : "Astrid Willum Foltinger",
+        "avatar" : "",
+        "description" : "Consultant, Implement",
+        "url": "https://www.linkedin.com/in/astridfoltinger/"
+    }, 
+    {
         "name" : "Christina Vega Pedersen",
         "avatar" : "/images/Christina%20Vega%20Pedersen.jpg",
         "description" : "Partner and Anthropologist, Actant",
@@ -22,7 +28,13 @@
         "avatar" : "images/Dina%20Lingås.jpg",
         "description" : "Student of MSc in Int.Business and Politics",
         "url" : "https://www.linkedin.com/in/dina-ling%C3%A5s-73567184/"
-    },      
+    },   
+    {
+        "name" : "Emil Bender Lassen",
+        "avatar" : "images/Emil%20Bender%20Lassen.jpg",
+        "description" : "PPE Student at King's College London",
+        "url" : "https://www.linkedin.com/in/emilbenderlassen/"
+    },   
     {
         "name" : "Hannibal Herforth",
         "avatar" : "images/Hannibal%20Herforth.jpg",

@@ -26,19 +26,19 @@
     {
         "name" : "Dina Lingås",
         "avatar" : "images/Dina%20Lingås.jpg",
-        "description" : "Student of MSc in Int.Business and Politics",
+        "description" : "MSc Student Int.Business and Politics",
         "url" : "https://www.linkedin.com/in/dina-ling%C3%A5s-73567184/"
     },   
     {
         "name" : "Emil Bender Lassen",
         "avatar" : "images/Emil%20Bender%20Lassen.jpg",
-        "description" : "PPE Student at King's College London",
+        "description" : "PPE Student, King's College London",
         "url" : "https://www.linkedin.com/in/emilbenderlassen/"
     },   
     {
         "name" : "Hannibal Herforth",
         "avatar" : "images/Hannibal%20Herforth.jpg",
-        "description" : "Country Manager at Future Leaders",
+        "description" : "Country Manager, Future Leaders",
         "url" : "https://www.linkedin.com/in/hannibal-herforth/"
     },
     {
@@ -104,7 +104,7 @@
     {
         "name" : "Susanne Fischer",
         "avatar" : "/images/Susanne%20Fischer%202.jpg",
-        "description" : "",
+        "description" : "MSc student, CBS",
         "url" : "https://www.linkedin.com/in/susanne-fischer/"
     },
     {

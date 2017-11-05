@@ -6,12 +6,6 @@
         "url": "https://dk.linkedin.com/in/ailalonka"
     },
     {
-        "name" : "Anders Møller",
-        "avatar" : "/images/Anders%20M%C3%B8ller.jpg",
-        "description" : "Partner, Bangura & Payamba",
-        "url": "https://dk.linkedin.com/in/andersmol"
-    }, 
-    {
         "name" : "Astrid Willum Foltinger",
         "avatar" : "/images/Astrid%20Willum%20Foltinger.jpg",
         "description" : "Management Consultant, Implement Consulting Group",
@@ -94,12 +88,6 @@
         "avatar" : "images/Maria%20Mundt.jpg",
         "description" : "Consultant",
         "url" : "https://www.linkedin.com/in/maria-mundt-a492bb81/"
-    },
-    {
-        "name" : "Rikke Krause",
-        "avatar" : "/images/Rikke%20Krause.jpg",
-        "description" : "Director of Innovation Excellence, Coloplast",
-        "url" : "https://dk.linkedin.com/in/rikkekrause"
     },
     {
         "name" : "Sabrina Simonsen",

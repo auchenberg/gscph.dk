@@ -6,6 +6,12 @@
         "url": "https://dk.linkedin.com/in/ailalonka"
     },
     {
+        "name" : "Anemone Birkebæk",
+        "avatar" : "/images/anemone%20birkebæk.jpg",
+        "description" : "Associate, Nordic Development Corporation",
+        "url": "https://www.linkedin.com/in/anemonebirkebaek/"
+    }, 
+    {
         "name" : "Astrid Willum Foltinger",
         "avatar" : "/images/Astrid%20Willum%20Foltinger.jpg",
         "description" : "Management Consultant, Implement Consulting Group",

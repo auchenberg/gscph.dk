@@ -112,5 +112,11 @@
         "avatar" : "/images/Thomas%20Albrechtsen.jpg",
         "description" : "Director, Nextwork",
         "url" : "https://dk.linkedin.com/in/thomas-albrechtsen-b3544138"
+    },
+    {
+        "name" : "Vibeke Greby Schmidt",
+        "avatar" : "/images/Vibeke%20Schmidt.jpg",
+        "description" : "Teacher, Bavnehøj Skole",
+        "url" : "https://www.linkedin.com/in/vibeke-greby-schmidt-4a3a7050/"
     }
 ]

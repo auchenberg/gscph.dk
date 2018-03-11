@@ -1,11 +1,5 @@
 [
     {
-        "name" : "Aila Lonka",
-        "avatar" : "/images/Aila%20Lonka.jpg",
-        "description" : "Head of section, Ministry of Defence ",
-        "url": "https://dk.linkedin.com/in/ailalonka"
-    },
-    {
         "name" : "Anemone Birkebæk",
         "avatar" : "/images/anemone%20birkebæk.jpg",
         "description" : "Associate, Nordic Development Corporation",
@@ -82,12 +76,6 @@
         "avatar" : "images/Maria%20Mundt.jpg",
         "description" : "Consultant",
         "url" : "https://www.linkedin.com/in/maria-mundt-a492bb81/"
-    },
-    {
-        "name" : "Sabrina Simonsen",
-        "avatar" : "/images/Sabrina%20Simonsen.jpg",
-        "description" : "Director of Business Development, Share Style",
-        "url" : "https://www.linkedin.com/in/sabsimonsen/en"
     },
     {
         "name" : "Susanne Fischer",

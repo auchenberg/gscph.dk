@@ -52,18 +52,18 @@
         "avatar" : "/images/Kirstine%20Leth%20Sch%C3%BCtze.jpg",
         "description" : "Founder, Papercut Issues",
         "url" : "https://www.linkedin.com/in/kasper-worm-petersen-48667057"
-    },  
-    {
-        "name" : "Line Kolling",
-        "avatar" : "/images/Line%20Kolling.jpg",
-        "description" : "Consultant, McKinsey & Co.",
-        "url" : "https://dk.linkedin.com/in/linekolling"
     },
     {
         "name" : "Kenneth Auchenberg",
         "avatar" : "/images/Kenneth%20Auchenberg.jpg",
         "description" : "Program Manager, Microsoft",
         "url" : "https://www.linkedin.com/in/auchenberg"
+    },
+    {
+        "name" : "Line Kolling",
+        "avatar" : "/images/Line%20Kolling.jpg",
+        "description" : "Consultant, McKinsey & Co.",
+        "url" : "https://dk.linkedin.com/in/linekolling"
     },
     {
         "name" : "Mathias Esmann",

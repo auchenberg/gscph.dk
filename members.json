@@ -42,10 +42,22 @@
         "url" : "https://dk.linkedin.com/in/jlennheden"
     },
     {
+        "name" : "Jan Vejdiksen",
+        "avatar" : "/images/Jacob%20Lennheden.jpg",
+        "description" : "Associate, Novo Holdings Principal Investments",
+        "url" : "https://www.linkedin.com/in/jan-vejdiksen-9b96183a/"
+    },
+    {
         "name" : "Johan Juul Johansen",
         "avatar" : "/images/Johan%20Juul%20Johansen.jpg",
         "description" : "Co-founder, Mobilized Construction",
         "url" : "https://de.linkedin.com/in/johanjuuljensen"
+    },
+    {
+        "name" : "Jonas Sylvester Kaspersen",
+        "avatar" : "/images/Johan%20Juul%20Johansen.jpg",
+        "description" : "Business Development Manager, Mortgage Direct SL",
+        "url" : "https://www.linkedin.com/in/jonassylvesterkaspersen/"
     },
     {
         "name" : "Kirstine Leth Schütze",

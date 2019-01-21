@@ -106,6 +106,12 @@
         "avatar" : "/images/Teddy%20Sun.jpg",
         "description" : "Project Manager, Health Advocacy, Novo Nordisk",
         "url" : "https://www.linkedin.com/in/teddy-sun-82059a9/"
+    },    
+    {
+        "name" : "Tinne Nissen",
+        "avatar" : "/images/tinne%20amalie%20damgaard%20nissen%201.jpg",
+        "description" : "Research Assistant, Novo Nordisk",
+        "url" : "https://www.linkedin.com/in/tinnenissen/"
     },
     {
         "name" : "Thomas Albrechtsen",

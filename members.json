@@ -35,6 +35,12 @@
         "description" : "PPE student, King's College London",
         "url" : "https://www.linkedin.com/in/emilbenderlassen/"
     },   
+        {
+        "name" : "Emilie Jallov-Haag",
+        "avatar" : "images/Emilie%20Jallov-Haag.jpg",
+        "description" : "Project Manager, CBS PRME",
+        "url" : "https://www.linkedin.com/mwlite/me"
+    },    
     {
         "name" : "Hannibal Herforth",
         "avatar" : "images/Hannibal%20Herforth.jpg",
@@ -68,7 +74,7 @@
     {
         "name" : "Kelsie Schmit",
         "avatar" : "/images/Kelsie%20Schmit.jpg",
-        "description" : "PM to board & EA to CFO, Novo Holdings",
+        "description" : "Project Manager to board & Executive Assistant to CFO, Novo Holdings",
         "url" : "https://www.linkedin.com/in/kelsieschmit/"
     },
     {

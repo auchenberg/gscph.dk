@@ -84,12 +84,6 @@
         "url" : "https://www.linkedin.com/in/kelsieschmit/"
     },
     {
-        "name" : "Kenneth Auchenberg",
-        "avatar" : "/images/Kenneth%20Auchenberg.jpg",
-        "description" : "Program Manager, Microsoft",
-        "url" : "https://www.linkedin.com/in/auchenberg"
-    },
-    {
         "name" : "Kirstine Leth Schütze",
         "avatar" : "/images/Kirstine%20Leth%20Sch%C3%BCtze.jpg",
         "description" : "Founder, Papercut Issues",
@@ -98,7 +92,7 @@
     {
         "name" : "Lahiru Elvitigala",
         "avatar" : "/images/Lahiru%20Elvitigala.jpg",
-        "description" : "Technical Write, UN OPS",
+        "description" : "Technical Writer, UN OPS",
         "url" : "https://www.linkedin.com/in/lahiruelvitigala/"
     },    
     {

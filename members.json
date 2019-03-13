@@ -6,12 +6,6 @@
         "url": "https://www.linkedin.com/in/anemonebirkebaek/"
     }, 
     {
-        "name" : "Astrid Willum Foltinger",
-        "avatar" : "/images/Astrid%20Willum%20Foltinger.jpg",
-        "description" : "Management Consultant, Implement Consulting Group",
-        "url": "https://www.linkedin.com/in/astridfoltinger/"
-    }, 
-    {
         "name" : "Chenai Muchena",
         "avatar" : "/images/chenai%20muchena.jpg",
         "description" : "M.Sc. student, Copenhagen Business School",
@@ -90,6 +84,12 @@
         "url" : "https://www.linkedin.com/in/lahiruelvitigala/"
     },    
     {
+        "name" : "Larissa Versloot",
+        "avatar" : "/images/Larissa%20Versloot.jpg",
+        "description" : "Co-founder, Disrupted Societies Institute",
+        "url" : "https://www.linkedin.com/in/larissa-versloot/"
+    },
+    {
         "name" : "Line Kolling",
         "avatar" : "/images/Line%20Kolling.jpg",
         "description" : "Consultant, McKinsey & Co.",
@@ -131,16 +131,4 @@
         "description" : "Research Assistant, Novo Nordisk Foundation Center for Basic Metabolic Research",
         "url" : "https://www.linkedin.com/in/tinnenissen/"
     },
-    {
-        "name" : "Thomas Albrechtsen",
-        "avatar" : "/images/Thomas%20Albrechtsen.jpg",
-        "description" : "Director, Nextwork",
-        "url" : "https://dk.linkedin.com/in/thomas-albrechtsen-b3544138"
-    },
-    {
-        "name" : "Vibeke Greby Schmidt",
-        "avatar" : "/images/Vibeke%20Schmidt.jpg",
-        "description" : "Teacher, Bavnehøj Skole",
-        "url" : "https://www.linkedin.com/in/vibeke-greby-schmidt-4a3a7050/"
-    }
 ]

@@ -6,6 +6,12 @@
         "url": "https://www.linkedin.com/in/anemonebirkebaek/"
     }, 
     {
+        "name" : "Ben Schenkel",
+        "avatar" : "/images/Ben%Schenkel.jpg",
+        "description" : "Market risk manager, Nordea",
+        "url": "https://www.linkedin.com/in/benjaminschenkel/"
+    },
+    {
         "name" : "Chenai Muchena",
         "avatar" : "/images/chenai%20muchena.jpg",
         "description" : "M.Sc. student, Copenhagen Business School",
@@ -34,7 +40,13 @@
         "avatar" : "images/Emilie%20Jallov-Haag.jpg",
         "description" : "Project Manager, CBS PRME",
         "url" : "https://www.linkedin.com/in/emilie-jallov-haag-491724aa/"
-    },    
+    },
+    {
+        "name" : "Gishok Govinthasamy",
+        "avatar" : "images/Gishok%20Govinthasamy.jpg",
+        "description" : "Analyst, Novozymes",
+        "url" : "https://www.linkedin.com/in/gishok/"
+    },
     {
         "name" : "Gitte Gram",
         "avatar" : "images/Gitte%20Gram.jpg",
@@ -52,6 +64,12 @@
         "avatar" : "/images/Jacob%20Lennheden.jpg",
         "description" : "Managing Partner, Copenhagen Institute of NeuroCreativity",
         "url" : "https://dk.linkedin.com/in/jlennheden"
+    },
+    {
+        "name" : "Jacob Pedersen",
+        "avatar" : "/images/Jacob%20Pedersen.jpg",
+        "description" : "Co-founder, CreditStretcher",
+        "url" : "https://www.linkedin.com/in/jacob-vors%C3%B8-pedersen-19b28b134/"
     },
     {
         "name" : "Johan Juul Johansen",
